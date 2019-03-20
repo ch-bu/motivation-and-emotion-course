@@ -15,4 +15,4 @@ type: information
 * Ort: R 207 (Breisacher Tor)
 * Zeit: Montag, 16:15 bis 17:45 Uhr
 * Dozent: Christian Burkhart
-* [Ilias-Kurs]()
+* [Ilias-Kurs](https://ilias.uni-freiburg.de/goto.php?target=crs_1239026&client_id=unifreiburg)
