@@ -11,9 +11,9 @@ type: instruction
 
 In den Präsenzsitzungen vertiefen wir die Inhalte der Literatur. Jeden Präsenzsitzung hat folgenden Aufbau:
 
-* Zu Beginn der Sitzung gebe ich eine kurze Zusammenfassung der Inhalte der Sitzung (15 Minuten)
-* Anschließend bearbeiten Sie die Fallvignette der Woche innerhalb der Gruppe (50 Minuten). Hierfür erhalten Sie jede Woche von mir einen Leitfaden. Die Gruppen bestehen aus 4 Personen. 
-* Zum Schluss der Sitzung diskutieren wir gemeinsam die Lösung dieser Fälle (15 Minuten).
+* **Vortrag vom Dozenten (15 min)**: Zu Beginn der Sitzung gebe ich eine kurze Zusammenfassung der Inhalte der Sitzung (15 Minuten)
+* **Fallbesprechung in der Gruppe (50 min)**: Anschließend bearbeiten Sie die Fallvignette der Woche innerhalb der Gruppe (50 Minuten). Hierfür erhalten Sie jede Woche von mir einen Leitfaden. Die Gruppen bestehen aus 4 Personen. 
+* **Diskussion des Falls (15 Min)**: Zum Schluss der Sitzung diskutieren wir gemeinsam die Lösung dieser Fälle (15 Minuten).
 
 
 

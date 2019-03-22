@@ -1,6 +1,6 @@
 ---
 moduleTitle: Einführung
-unitTitle: Worked Examples Fallvignette
+unitTitle: Fallvignetten
 title: Außergewöhnliches Beispiel
 module: 0
 unit: 4
