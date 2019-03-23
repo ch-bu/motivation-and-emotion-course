@@ -9,3 +9,4 @@ type: information
 ---
 
 ![](ein_fallbeispiel.PNG)
+
