@@ -8,14 +8,14 @@ subunit: 5
 type: information
 ---
 
-Das Seminar hat einen Arbeitsaufwand von 5 ECTS-Punkten. Dies entspricht einem Arbeitsaufwand von 180 Stunden (siehe [Allgemeine Bestimmungen §3 (5)](http://www.geko.uni-freiburg.de/pruefungsordnungen/bachelor/po-bachelor2011/AllgBest.pdf)). Um das Seminar zu bestehen, reche ich damit, dass Sie mindestens 50% dieser Stunden in das Seminar tatsächlich investieren. Dies entspricht mindestens 90 Stunden. 
+Das Seminar hat einen Arbeitsaufwand von 5 ECTS-Punkten. Dies entspricht einem Arbeitsaufwand von 180 Stunden (siehe [Allgemeine Bestimmungen §3 (5)](http://www.geko.uni-freiburg.de/pruefungsordnungen/bachelor/po-bachelor2011/AllgBest.pdf)). Um das Seminar zu bestehen, rechne ich damit, dass Sie mindestens 50% dieser Stunden in das Seminar tatsächlich investieren. Dies entspricht mindestens 90 Stunden. 
 
 
 ## Studienleistungen
 
 * **Anwesenheit im Seminar (24 h)**: Erscheinen Sie pünktlich. Sie dürfen **maximal zwei Sitzungen** fehlen. Fehlen Sie öfter, erhalten Sie kompensatorische Ersatzleistungen. Fehlen Sie öfter als 3 mal erhalten Sie unter **keinen Umständen** eine Leistungsbescheinigung für das Seminar.
-* **Erstellen zweier Fallvignetten (2 h)**: Während des Seminars erarbeiten wir fortwährend konkrete Fallvignetten von Ihnen, anhand derer wir die Motivations- und Emotionstheorien besprechen. Dazu erstellen Sie in der ersten Woche des Seminars **zwei konkrete Fallvignetten** aus ihrer eigenen Lernerfahrung.
-* **Kurzessays anhand von Fallvignetten (28 h)**: Vor jedem Seminar lesen Sie die von mir bereit gestellte Literatur und erhalten eine Fallvignette, die sie anhand eines kurzen Essays analysieren. Die Fallvignetten haben eine Länge von 350 Wörtern. Zusätzlich recherchieren Sie 2 Quellen, die Sie in Ihre Fallvignette einfließen lassen. Sie schreiben die Kurzessays ab dem Thema *Motivation und Lernen* bis zum Thema *Emotionen regulieren*. Sie dürfen zwei mal passen. Sie müssen daher **mindestens sieben** dieser Kurzessays schreiben. Die Kurzessays geben Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1239027&client_id=unifreiburg) ab.
+* **Erstellen zweier Fallvignetten (2 h)**: Während des Seminars erarbeiten wir fortwährend konkrete Fallvignetten von Ihnen, anhand derer wir die Motivations- und Emotionstheorien besprechen. Dazu erstellen Sie in der ersten Woche des Seminars **zwei konkrete Fälle** aus ihrer eigenen Lernerfahrung.
+* **Kurzessays anhand von Fallvignetten (28 h)**: Vor jedem Seminar lesen Sie die von mir bereit gestellte Literatur und erhalten einen Fall, den sie anhand eines kurzen Essays analysieren. Die Fallvignetten haben eine Länge von 350 Wörtern. Zusätzlich recherchieren Sie 2 Quellen, die Sie in Ihre Fallvignette einfließen lassen. Sie schreiben die Kurzessays ab dem Thema *Motivation und Lernen* bis zum Thema *Emotionen regulieren*. Sie dürfen zwei mal passen. Sie müssen daher **mindestens sieben** dieser Kurzessays schreiben. Die Kurzessays geben Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1239027&client_id=unifreiburg) ab.
 
 
 ## Prüfungsleistungen
@@ -34,17 +34,19 @@ $
 
 Dies würde einer Note von 2,7 entsprechen: 
 
-<50% nicht ausreichend
-≥ 50 – 55%    4,0
-> 55 – 60%    3,7
-> 60 – 65%    3,3
-> 65 – 70%    3,0
-> 70 – 75%    2,7 
-> 75 – 80%    2,3
-> 80 – 85%    2,0
-> 85 – 90%    1,7
-> 90 – 95%    1,3
-> 95 – 100%   1,0
+| Prozent     | Note              |
+|-------------|-------------------|
+| < 50%       | nicht ausreichend |
+| > 50 - 55%  | 4,0               |
+| > 55 - 60%  | 3,7               |
+| > 60 - 65%  | 3,3               |
+| > 65 - 70%  | 3,0               |
+| > 70 - 75%  | 2,7               |
+| > 75 - 80%  | 2,3               |
+| > 80 - 85%  | 2,0               |
+| > 85 - 90%  | 1,7               |
+| > 90 - 95%  | 1,3               |
+| > 95 - 100% | 1,0               |
 
 
 Daraus ergeben sich folgende Berechnungen:

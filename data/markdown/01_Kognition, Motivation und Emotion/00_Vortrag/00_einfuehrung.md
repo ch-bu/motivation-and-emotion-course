@@ -1,8 +1,8 @@
 ---
 moduleTitle: Kognition, Motivation und Emotion
 unitTitle: Kurzvortrag
-title: Kognition, Emotion und Motivation
-module: 0
+title: Einführung
+module: 1
 unit: 0
 subunit: 0
 type: video
