@@ -1,6 +1,6 @@
 ---
 moduleTitle: Einführung
-unitTitle: Fallvignetten
+unitTitle: Ausführliches Essay
 title: Bewertungsschema
 module: 0
 unit: 4
@@ -11,7 +11,7 @@ type: information
 
 | Kriterium              | Beschreibung                                                                                                                                                         | Punkte |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Gliederung und Ordnung | Die Fallvignette hat eine klar erkennbare Gliederung und Ordnung.                                                                                                    | 1      |
+| Gliederung und Ordnung | Das Essay hat eine klar erkennbare Gliederung und Ordnung.                                                                                                    | 1      |
 | Integration            | Der Fall wird sehr eng mit den Theorien integriert und diskutiert.                                                                                                   | 2      |
 | Quellen                | Das Essay umfasst Quellverweise auf wissenschaftliche Literatur.                                                                                                     | 1      |
 | Theorie                | Die Theorie wird korrekt und präsize beschrieben                                                                                                                     | 1      |
