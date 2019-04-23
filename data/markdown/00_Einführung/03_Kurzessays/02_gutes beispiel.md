@@ -29,7 +29,7 @@ Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of exper
 Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American psychologist*, 55(1), 68.
 
 
-## Warum ist das Kurzessay schlecht?
+## Warum ist das Kurzessay gut?
 
 * Das Kurzessay hat eine erkennbare Gliederung und Ordnung 
 * Die Quellen sind wissenschaftlich

@@ -31,7 +31,7 @@ Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitatio
 Wigfield, A., & Eccles, J. S. (2000). Expectancy–value theory of achievement motivation. Contemporary educational psychology, 25(1), 68-81.
 
 
-## Warum ist das Kurzessay schlecht?
+## Warum ist das Kurzessay außergewöhnlich?
 
 * Das Kurzessay hat eine erkennbare Gliederung und Ordnung 
 * Die Quellen sind wissenschaftlich
