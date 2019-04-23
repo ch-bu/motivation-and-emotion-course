@@ -8,7 +8,9 @@ subunit: 0
 type: video
 ---
 
-Bisher haben die Studenten Kognition gelernt. Kognition beschäftigt sich mit Fragen des Denkens. Wie nehmen wir Dinge war, was ist Lernen? Wie lösen Menschen Probleme. Wie speichern wir Dinge in unserem Gedächtnis. 
+<iframe width="1017" height="572" src="https://www.youtube.com/embed/n17mY2QcaVQ?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Bisher haben die Studenten Kognition gelernt. Kognition beschäftigt sich mit Fragen des Denkens. Wie nehmen wir Dinge war, was ist Lernen? Wie lösen Menschen Probleme. Wie speichern wir Dinge in unserem Gedächtnis. 
 
 Ein Beispiel: Wir gehen davon aus, dass unser Arbeitsgedächtnis begrenzt ist. Wir können nur ein paar wenige Dinge gleichzeitig wahrnehmen. Ähnlich einem Gefäß, dass begrenzt ist. Man geht heute von ~ 4 Informationseinheiten, die wir im Arbeitsgedächtnis halten können. Wäre das die einzige Tatsache des Gedächtnisses, wären wir allerdings incht in der Lage, Häußer zu bauen und Einkaufen zu gehen. Der Trick ist, dass manches, was wir im Arbeitsgedächtnis verarbeiten in das Langzeitgedächtnis übergeht. 
 
@@ -66,4 +68,4 @@ Lazarus, R. S. (1991). Cognition and motivation in emotion. American psychologis
 
 Bradley, M. M., & Lang, P. J. (2000). Emotion and motivation. Handbook of psychophysiology, 2, 602-642.
 
-Ekman, P. (1999). Basic emotions. Handbook of cognition and emotion, 45-60.
+Ekman, P. (1999). Basic emotions. Handbook of cognition and emotion, 45-60. -->
