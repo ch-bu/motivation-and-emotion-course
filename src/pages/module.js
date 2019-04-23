@@ -1,4 +1,5 @@
 import React, { Component } from "react"
+import ReactDOM from 'react-dom'
 import rehypeReact from "rehype-react"
 import { Link } from "gatsby"
 import Shell from '../layouts/shell';
@@ -15,6 +16,7 @@ import Audio from "../components/audio";
 import SingleChoice from "../components/questions/singlechoice";
 import MultipleChoice from "../components/questions/multiplechoice";
 import OrderQuestion from "../components/questions/orderquestion";
+import Flipcard from "../components/questions/flipcard";
 import VideoModeling from "../components/questions/youtubevideomodeling";
 
 // Icons 
@@ -47,6 +49,9 @@ class Module extends Component {
       title: ""
     };
 
+    // this.myRef = React.createRef();
+    this.unitLabels = [];
+
     // Bind methods
     this.showAside         = this.showAside.bind(this);
     this.toggleAsideLeft   = this.toggleAsideLeft.bind(this);
@@ -74,8 +79,7 @@ class Module extends Component {
                     'reflection': Reflection,
                     'information': Information};
 
-      // In case the unit could not be found navigate back
-      // to /module
+      // Make sure that the url has all necessary paramters
       if (parsedURL.id && parsedURL.subunit && parsedURL.unit) {
         // Filter all markdown files by module_id
         const subunits = this.state.data.filter((value, index, array) => {
@@ -175,14 +179,23 @@ class Module extends Component {
             }
 
             unitLi.push(
-              <li key={unit}>
-                <a key={unit}>{unitSorted[unit].frontmatter.unitTitle}
-                </a>
-          
-                <ul>
+              <div id={unitSorted[unit].frontmatter.unitTitle == "Problem" ? "problem" : ""}
+                   key={unitSorted[unit].frontmatter.unitTitle}>
+                <label htmlFor={unitSorted[unit].frontmatter.unitTitle}
+                       data-unit={unitSorted[unit].frontmatter.unit}
+                       ref={(label) => { this.unitLabels.push(label) }}
+                       className={unitSorted[unit].frontmatter.unit == current_subunit.frontmatter.unit ? "unit-active" : ""}
+                       key={unit}>
+                       {unitSorted[unit].frontmatter.unitTitle}
+                </label>
+                <input type="checkbox" 
+                  id={unitSorted[unit].frontmatter.unitTitle}
+                  className="menu-toggle" />
+                <ul className="menu">
                   {subunitLi}
                 </ul>
-              </li>);
+              </div>
+              );
           }
       
           this.setState({
@@ -223,6 +236,22 @@ class Module extends Component {
         this.setState({
           currentSubunit: current_subunit[0].node,
           showAside: true,
+        });
+
+        // *************************************
+        // Highlight active unit programmatically
+        // *************************************
+        const currentUnitID = current_subunit[0].node.frontmatter.unit;
+
+        this.unitLabels.forEach((label) => {
+          const currentLabel = label;
+          const unitId = currentLabel.getAttribute('data-unit');
+
+          if (unitId == currentUnitID) {
+            currentLabel.classList.add("unit-active");
+          } else {
+            currentLabel.classList.remove("unit-active");
+          }
         });
 
         // *************************************
@@ -302,10 +331,9 @@ class Module extends Component {
             </Main> }
 
           <Aside showAside={this.state.showAside} 
-                 showAsideLeft={this.state.showAsideLeft ? 'showAsideLeft': null}
-                 videoActive={this.state.currentSubunit.frontmatter.type == "video"}>
-            <TopNav showAsideLeft={this.state.showAsideLeft ? 'showAsideLeft': null}
-                    videoActive={this.state.currentSubunit.frontmatter.type == "video"}>
+                 currentUnit={this.state.currentUnit}
+                 showAsideLeft={this.state.showAsideLeft ? 'showAsideLeft': null}>
+            <TopNav showAsideLeft={this.state.showAsideLeft ? 'showAsideLeft': null}>
               <div>
                 <Link to="/modules">
                   <FaCaretLeft />
@@ -391,7 +419,8 @@ const renderAst = new rehypeReact({
     "singlechoice": SingleChoice,
     "multiplechoice": MultipleChoice,
     "orderquestion": OrderQuestion,
-    "videomodeling": VideoModeling
+    "videomodeling": VideoModeling,
+    "flipcard": Flipcard
   },
 }).Compiler
 

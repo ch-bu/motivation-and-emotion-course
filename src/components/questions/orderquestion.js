@@ -5,6 +5,7 @@ import { StaticQuery, graphql } from "gatsby"
 import Button from '../button'
 import Confetti from 'react-dom-confetti';
 import {reactLocalStorage} from 'reactjs-localstorage';
+import { ShakeLittle } from 'reshake'
 
 // fake data generator
 // const getItems = count =>
@@ -33,7 +34,7 @@ const getItemStyle = (isDragging, draggableStyle) => ({
   boxShadow: "5px 4px 20px 0 rgba(46,61,73,.4)",
 
   // change background colour if dragging
-  background: isDragging ? "#fcf113" : '#fefab8',
+  background: isDragging ? "#01a1cd" : '#02b3e4',
   // color: isDragging ? '#fff' : '#000',
   color: "#000",
 
@@ -82,7 +83,7 @@ class OrderComponent extends Component {
 
     // Get correct question
     this.question = this.questions.filter((question) => {
-      return question.node.question === this.props.question;
+      return parseInt(question.node.questionid) === parseInt(this.props.id);
     })[0].node;
 
     // Get answers for questions
@@ -105,12 +106,13 @@ class OrderComponent extends Component {
 
     this.state = {
       correctItems: answers.slice(0),
-      items: reactLocalStorage.get(this.question.question) ? answers : this.shuffleArray(answers),
-      alreadyAnswered: reactLocalStorage.get(this.question.question) ? true : false,
+      items: reactLocalStorage.get("orderquestion-" + this.question.questionid) ? answers : this.shuffleArray(answers),
+      alreadyAnswered: reactLocalStorage.get("orderquestion-" + this.question.questionid) ? true : false,
       showConfetti: false,
       answerCorrect: null,
-      hint: reactLocalStorage.get(this.question.question) ? "Well, done!" : "",
-      buttonClicked: false
+      hint: reactLocalStorage.get("orderquestion-" + this.question.questionid) ? "Well, done!" : "",
+      buttonClicked: false,
+      shakeButton: false
     };
 
     this.onDragEnd = this.onDragEnd.bind(this);
@@ -145,6 +147,8 @@ class OrderComponent extends Component {
   }
 
   getAnswer() {
+    var self = this;
+    
     const answerCorrect = this.state.items.toString() === this.state.correctItems.toString();
 
     this.setState({
@@ -153,7 +157,7 @@ class OrderComponent extends Component {
 
     if (answerCorrect) {
       // Store correct answer in local storage
-      reactLocalStorage.set(this.question.question, this.question.hint);
+      reactLocalStorage.set("orderquestion-" + this.question.questionid, true);
 
       this.setState({
         showConfetti: true,
@@ -167,8 +171,13 @@ class OrderComponent extends Component {
     } else {
       this.setState({
         answerCorrect: false,
-        hint: this.question.hint
+        hint: this.question.hint,
+        shakeButton: !this.state.shakeButton
       });
+
+      setTimeout(function() {
+        self.setState({shakeButton: false})
+      }, 400);
     }
   }
 
@@ -221,7 +230,14 @@ class OrderComponent extends Component {
             )}
           </Droppable>
           <Confetti active={ this.state.showConfetti } config={ this.config }/>
-          <Button onClick={this.getAnswer}>Überprüfe deine Antwort</ Button>
+
+          {this.state.shakeButton ? 
+          <ShakeLittle >
+            <Button onClick={this.getAnswer}>Submit Answer</Button>
+          </ShakeLittle> : 
+          
+          <Button onClick={this.getAnswer}>Submit Answer</Button>}
+
           {answer}
         </DragDropContext>
       </DragDropContainer>
@@ -239,6 +255,7 @@ export default props => (
           edges {
             node {
               question
+              questionid
               hint
               answers {
                 answer

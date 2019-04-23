@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Saoirse',
   },
-  pathPrefix: "/motivation-and-emotion-course",
+  pathPrefix: "/saoirse",
   plugins: [
     'gatsby-plugin-sharp',
     'gatsby-plugin-transition-link',
@@ -80,6 +80,13 @@ module.exports = {
       options: {
         name: `src`,
         path: `${__dirname}/data/`
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/data/images`
       },
     },
     {
