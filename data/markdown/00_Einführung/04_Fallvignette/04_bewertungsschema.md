@@ -22,7 +22,7 @@ type: information
 
 ## Bewertung
 
-* **0 bis 2 Punkte**: Schlechte Fallvignette -> 0 Punkte
-* **3 bis 5 Punkte**: Mittemäßige Fallvignette -> 5 Punkte
-* **6 bis 8 Punkte**: Gute Fallvignette -> 10 Punkte
-* **9 Punkte**: Außergewöhnliche Fallvignette -> 20 Punkte
+* **0 bis 2 Punkte**: Schlechtes Essay -> 0 Punkte
+* **3 bis 5 Punkte**: Mittelmäßiges Essay -> 5 Punkte
+* **6 bis 8 Punkte**: Gutes Essay -> 10 Punkte
+* **9 Punkte**: Außergewöhnliche Essay -> 20 Punkte
