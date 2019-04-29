@@ -1,7 +1,7 @@
 ---
 moduleTitle: Einführung
 unitTitle: Todo nächste Woche
-title: Deadlines asuführliche Essays setzen
+title: Deadlines ausführliche Essays
 module: 0
 unit: 5
 subunit: 1
