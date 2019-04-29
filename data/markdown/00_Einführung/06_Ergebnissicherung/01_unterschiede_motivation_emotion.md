@@ -11,11 +11,11 @@ type: information
 ![](unterschiede.PNG)
 
 
-![](images/unterschied1.jpg)
+![](unterschied1.jpg)
 
-![](images/unterschied2.jpg)
+![](unterschied2.jpg)
 
-![](images/unterschied3.jpg)
+![](unterschied3.jpg)
 
 
 Kognition beansprucht Arbeitsressourcen, die für bestimmte Prozesse notwendig sind. Losgelöst vom inneren Erleben und der Gefühlswelt. Kognition ist faktenbasiert, rational und logisch wohingegen Emotion und Motivation gefühlsbasiert und fremdgesteuert sind. Emotionen sind das Resultat einer bestimmt-motivierten Handlung. Motivation bedingt eine Handlung, welche Kognition beansprucht und schlussendlich eine Emotion zur Folge hat. 
