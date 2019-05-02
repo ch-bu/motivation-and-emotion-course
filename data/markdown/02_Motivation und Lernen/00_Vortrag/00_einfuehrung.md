@@ -1,14 +1,16 @@
 ---
 moduleTitle: Motivation und Lernen
 unitTitle: Kurzvortrag
-title: Einführung
+title: Wie entsteht Motivation?
 module: 2
 unit: 0
 subunit: 0
 type: video
 ---
 
-1. Motivation kurz nochmal erklären -> Auf Diagramm eingehen. 
+
+
+<!-- 1. Motivation kurz nochmal erklären -> Auf Diagramm eingehen. 
 2. Motiviert sein ist gut für eine Handlung weil
 	* Better learning outcomes
 	* Perform better on standardized tests
@@ -94,3 +96,4 @@ Goals
 
 ## Conlusions am Ende
 
+ -->
