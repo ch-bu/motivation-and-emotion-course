@@ -18,14 +18,14 @@ Ihnen steht es frei, kein, ein oder zwei Essays zu schreiben. Seien Sie sich um 
 
 ### Zwei Deadlines 
 
-Essay 1: ID der Fallvignette - 20.05.2018
+Essay 1: 20.05.2018
 
-Essay 2: ID der Fallvignette - 17.06.2018
+Essay 2: 17.06.2018
 
 
 ### Eine Deadline
 
-Essay 1: ID der Fallvignette - 20.05.2018
+Essay 1: 20.05.2018
 
 
 ### Keine Deadline
