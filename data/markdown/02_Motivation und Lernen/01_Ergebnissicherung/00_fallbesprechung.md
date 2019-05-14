@@ -105,3 +105,8 @@ Hier: es ist schwierig die beiden Theorien zu vergleichen
 ## Antwort 6
 
 ![](antwort6.jpg)
+
+
+## Antwort 7
+
+![](antwort2.jpg)
