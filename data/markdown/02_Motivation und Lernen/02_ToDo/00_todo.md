@@ -1,6 +1,6 @@
 ---
 moduleTitle: Motivation und Lernen
-unitTitle: ToDo
+unitTitle: Todo
 title: Todo
 module: 2
 unit: 2
@@ -9,19 +9,25 @@ type: information
 ---
 
 
-Lesen Sie [Linnenbrink & Pintrich (2003)](https://ilias.uni-freiburg.de/goto.php?target=file_1282537_download&client_id=unifreiburg). 
+## Literatur lesen
 
-Recherchieren Sie zwei empirische Untersuchungen, die den Effekt der Selbstwirksamkeit untersucht haben. 
+Lesen Sie [Kapitel 7 des Buches How People Learn II](https://ilias.uni-freiburg.de/goto.php?target=file_1261251_download&client_id=unifreiburg).
 
-Analyiseren Sie anschließend folgenden Fall anhand folgender Leitfragen:
+## Kurzessay verfassen
 
-> Tim: "Ich möchte schon seit über einem Jahr unbedingt japanisch lernen, jedoch kriege ich es einfach nicht richtig hin, vielleicht habe ich auch einfach zu wenig Struktur dafür. Ich habe mir bereits diverse Apps runtergeladen und immer mal wieder vereinzelt Wörter gelernt, auch durch japanische Serien, die ich mir eine Zeit lang angeschaut habe, doch wenn ich nach einer lernfreien Zeit auf meine Erfolge zurückblicke, bin ich enttäuscht. Meistens bleiben nicht mal die Basics im Kopf. Es gibt ein paar Begriffe, die ich von Anfang an behalten konnte z.B. „Guten Appetit“, „Hallo“ oder „Mond“. Warum ich mir genau diese zusammenhangslosen Dinge merken kann, weiß ich nicht. Die japanischen Schriftzeichen die man in „Hiragana“, „Katakana“ und „Kanji“ unterteilt, sind so abstrakt und unverständlich für mich, dass es hart ist, es an irgendeine Struktur zu binden, mit dem sich das Lernen erleichtern ließe. Es lässt sich für mich in keiner Art und Weise mit unserem Alphabet vergleichen. Weil selbst nach langen und meines Erachtens nach intensiven Lernsessions einfach kaum was hängen bleibt, bin ich sehr oft demotiviert und stoppe meinen Wunsch zu lernen für ein paar Monate, bis mich die Lust wieder überkommt und ich erneut beginne zu lernen."
+Verfassen Sie ein Kurzessay zu folgendem Fall:
 
-Leitfragen
 
-* Warum ist Selbstwirksamkeit so wichtig für akademische Leistungen? 
-* Welchen Einfluss hat die geringe Selbstwirksamkeit bei Tim auf Motivation (z.B. Interesse, Wert), Kognition (z.B. Lernstrategien, Metakognition), und Verhaltensregulierende Handlungen (z.B. Aufwand)?
-* Wie könnte Tim's Selbstwirksamkeit gesteigert werden? 
+> Mein Name ist Sabrina. Jeden Dienstag treffen wir uns in unserer Lerngruppe, um gemeinsam zu lernen. Wir sind vier Leute und bereiten uns gerade auf das Matheabitur vor. Wir haben noch genau drei Wochen Zeit, um zu üben und uns gegenseitig Formeln und weitere mathematische Dinge zu erklären. Ich freue mich eigentlich immer auf unser Treffen, weil ich finde in der Gruppe ist das Lernen nur halb so schlimm und da ich sowieso immer ein schlechter Schüler in Mathe war, können die Anderen mir mit meinen Schwierigkeiten helfen. Leider bin ich nach der Lernphase meistens ziemlich erschöpft und manchmal auch deprimiert, weil ich viele Dinge nicht so hinbekomme wie ich es gern würde. Da wäre zum Beispiel das Ableiten einer Funktion. Einen Fehler mache ich immer und das nervt mich richtig. Außerdem ist es einfach so anstrengend, weil man die ganze Zeit sehr konzentriert sein muss und sobald ich dann Zuhause bin, muss ich mich erstmal belohnen und lege ich mich sofort ins Bett um mich ein bisschen zu erholen und ein Stück Schokolade zu essen. Auf der anderen Seite bin ich aber oft von mir selbst überrascht, dass ich andere Dinge viel besser hinbekomme als andere aus der Gruppe, zum Beispiel in Textaufgaben. Das spornt mich irgendwie an und ich gebe mir mehr Mühe, damit ich zumindest in diesen Dingen weiterhin besser bleibe als die Anderen. 
+
+
+Beschreiben Sie diesen Fall anhand folgender Leitfragen:
+
+* Anhand welcher Motivationstheorien, die in dem Kapitel How People Learn II dargestellt wurden, lässt sich das motivierte Handeln (hier Vorbereitung auf das Matheabitur) am besten erklären (z.B. Intrinsic Motivation oder Interest)? 
+* Erklären Sie in ihren eigenen Worten das motivierte Handeln der Person anhand von zwei der zentralen Motivationstheorien aus dem Kapitel How People Learn II (z.B. Intrinsic Motivation oder Interest)
+* Beschreiben Sie anhand des Heckhausenmodells, wie motiviertes Handeln bei der Person entsteht
 
 
 Laden Sie Ihr Kurzessay auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1239027&client_id=unifreiburg) hoch. Nehmen Sie Ihr Kurzessay mit in das Seminar. 
+
+

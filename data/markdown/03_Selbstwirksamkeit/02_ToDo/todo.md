@@ -1,17 +1,27 @@
 ---
 moduleTitle: Selbstwirksamkeit
 unitTitle: ToDo
-title: Fallanalyse Lisa
+title: Todo
 module: 3
 unit: 2
 subunit: 0
 type: information
 ---
 
-Lesen Sie [Eccles und Wigfield (2002)](https://ilias.uni-freiburg.de/goto.php?target=file_1288889_download&client_id=unifreiburg). Es handelt sich um ein Review verschiedener Motivationstheorien. Lesen Sie soviel sie möchten, lesen Sie aber auf jeden Fall den Ausschnitt **Modern Expectancy-Value Theory** (S. 118-112). 
 
-Schreiben Sie anschließend eine Fallanalyse, bei der Sie den Fall von Lisa anhand der Expectancy-Value Theory nach Eccles und Wigfield (2002) analysieren. 
+Lesen Sie [Linnenbrink & Pintrich (2003)](https://ilias.uni-freiburg.de/goto.php?target=file_1282537_download&client_id=unifreiburg). 
 
-> Lisa ist sehr schlecht in Mathematik, sie ist allerdings der Überzeugung, dass die Wahrscheinlichkeitstheorie zu beherrschen, sie weiter bringen kann, empirische Forschung besser zu verstehen und eventell auch eine wissenschaftliche Laufbahn einzuschlagen. In Zeitungen steht ja immer, dass man dies und das heraus gefunden hat. Lisa möchte das nicht einfach immer so hinnehmen und würde gerne mit einem kritischen Auge auf solche Aussagen schauen. Um dahin zu kommen gibt sie sich in ihrem Studium sehr Mühe, sie liest alle Aufgaben aufmerksam durch, sie macht ihre Hausaufgaben regelmäßig und ordentlich und nimmt sogar Nachhilfe. In der nächsten Klausur ist nun das Thema Wahrscheinlichkeit. Lisa lernt sehr viel auf die Klausur und sogar ihr Nachhilfelehrer ist der Meinung, dass sie in dieser Klausur besser als sonst abschneiden werde. Vor der Klausur liest Lisa sich noch ein mal alle wichtigen Dinge durch, die sie sich für die Klausur aufgeschrieben hat, jedoch hat sie während der Klausur ein Blackout und somit alles vergessen, was sie gelernt hatte und schneidet in der Klausur wieder nur mit einer 4 ab. Sie ist niedergeschlagen und enttäuscht und findet sich damit ab, dass sie Mathe wohl nie verstehen wird. „Mathe ist blöd, ich werde nie in einen Beruf einsteigen, der annähernd etwas mit diesem Fach zu tun hat.“, sagt sie zu sich. 
+Recherchieren Sie zwei empirische Untersuchungen, die den Effekt der Selbstwirksamkeit untersucht haben. 
 
-Laden Sie Ihr Kurzessay auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1239027&client_id=unifreiburg) hoch. 
+Analyiseren Sie anschließend folgenden Fall anhand folgender Leitfragen:
+
+> Tim: "Ich möchte schon seit über einem Jahr unbedingt japanisch lernen, jedoch kriege ich es einfach nicht richtig hin, vielleicht habe ich auch einfach zu wenig Struktur dafür. Ich habe mir bereits diverse Apps runtergeladen und immer mal wieder vereinzelt Wörter gelernt, auch durch japanische Serien, die ich mir eine Zeit lang angeschaut habe, doch wenn ich nach einer lernfreien Zeit auf meine Erfolge zurückblicke, bin ich enttäuscht. Meistens bleiben nicht mal die Basics im Kopf. Es gibt ein paar Begriffe, die ich von Anfang an behalten konnte z.B. „Guten Appetit“, „Hallo“ oder „Mond“. Warum ich mir genau diese zusammenhangslosen Dinge merken kann, weiß ich nicht. Die japanischen Schriftzeichen die man in „Hiragana“, „Katakana“ und „Kanji“ unterteilt, sind so abstrakt und unverständlich für mich, dass es hart ist, es an irgendeine Struktur zu binden, mit dem sich das Lernen erleichtern ließe. Es lässt sich für mich in keiner Art und Weise mit unserem Alphabet vergleichen. Weil selbst nach langen und meines Erachtens nach intensiven Lernsessions einfach kaum was hängen bleibt, bin ich sehr oft demotiviert und stoppe meinen Wunsch zu lernen für ein paar Monate, bis mich die Lust wieder überkommt und ich erneut beginne zu lernen."
+
+Leitfragen
+
+* Warum ist Selbstwirksamkeit so wichtig für akademische Leistungen? 
+* Welchen Einfluss hat die geringe Selbstwirksamkeit bei Tim auf Motivation (z.B. Interesse, Wert), Kognition (z.B. Lernstrategien, Metakognition), und Verhaltensregulierende Handlungen (z.B. Aufwand)?
+* Wie könnte Tim's Selbstwirksamkeit gesteigert werden? 
+
+
+Laden Sie Ihr Kurzessay auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_1239027&client_id=unifreiburg) hoch. Nehmen Sie Ihr Kurzessay mit in das Seminar. 
