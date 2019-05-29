@@ -26,7 +26,7 @@ In den Präsenzsitzungen vertiefen wir die Inhalte der Literatur. Jeden Präsenz
 | 27.05 | Motivation: Erwartungs-Wert Modelle      |
 | 03.06 | Motivation: Self-Determination Theory    |
 | 10.06 | Pfingstpause                             |
-| 17.06 | Motivation: Leistungsmotivation          |
+| 17.06 | Motivation: Zielorientierung             |
 | 24.06 | Motivation: Volition, Interesse und Flow |
 | 01.07 | Motivation fördern                       |
 | 08.07 | Emotionen und Lernen                     |
