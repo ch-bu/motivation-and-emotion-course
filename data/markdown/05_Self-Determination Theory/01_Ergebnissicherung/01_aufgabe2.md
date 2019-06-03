@@ -1,13 +1,13 @@
 ---
 moduleTitle: Self-Determination Theory
-unitTitle: Gruppenarbeit 1
+unitTitle: Gruppenarbeit 2
 title: Todo
 module: 5
 unit: 0
-subunit: 0
+subunit: 1
 type: instruction
 ---
 
-![](arbeit1.PNG)
+![](aufgabe2.PNG)
 
-![](loesung1.jpg)
+![](loesung2.jpg)

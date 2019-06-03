@@ -1,7 +1,7 @@
 ---
 moduleTitle: Self-Determination Theory
 unitTitle: ToDo
-title: Fallanalyse Lisa
+title: Fallanalyse Georg
 module: 5
 unit: 1
 subunit: 0
